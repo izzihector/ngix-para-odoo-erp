@@ -10,3 +10,6 @@ mv default default-temp
 mv default.conf default
 nginx -s reload
 ```
+
+
+Video donde muestra el proceso https://www.youtube.com/watch?v=LfHi4zp-vsE
